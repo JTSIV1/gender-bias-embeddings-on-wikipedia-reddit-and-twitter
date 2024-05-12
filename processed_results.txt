@@ -1,0 +1,30 @@
+reddit_cbow.model:
+	Male neg/pos: 0.9602396301324758
+	Female neg/pos: 1.091749284836608
+	Neg male/female: 1.0526584594258903
+	Pos male/female: 1.196825338376079
+reddit_sg.model:
+	Male neg/pos: 0.9832511106201408
+	Female neg/pos: 0.984255652834638
+	Neg male/female: 1.064967509279941
+	Pos male/female: 1.0660555373620706
+twitter_cbow.model:
+	Male neg/pos: 0.7937308049665657
+	Female neg/pos: 0.7696751928702449
+	Neg male/female: 1.4234034051003173
+	Pos male/female: 1.3802642955238438
+twitter_sg.model:
+	Male neg/pos: 0.9502738242560013
+	Female neg/pos: 0.9466289276266237
+	Neg male/female: 1.0688256239684848
+	Pos male/female: 1.0647260067689421
+wikipedia_cbow.model:
+	Male neg/pos: 1.536208157774013
+	Female neg/pos: 1.4348734739324827
+	Neg male/female: 0.7548618035802335
+	Pos male/female: 0.7050679772535391
+wikipedia_sg.model:
+	Male neg/pos: 0.9748368082526818
+	Female neg/pos: 0.9441277574708127
+	Neg male/female: 0.9631396404093607
+	Pos male/female: 0.932799070708903
